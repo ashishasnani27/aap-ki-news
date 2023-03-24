@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/aap-ki-news/static/css/main.abd64e84.css",
-    "main.js": "/aap-ki-news/static/js/main.71c6aeed.js",
+    "main.js": "/aap-ki-news/static/js/main.96deff1d.js",
     "static/js/787.9ae55491.chunk.js": "/aap-ki-news/static/js/787.9ae55491.chunk.js",
     "static/media/loading.gif": "/aap-ki-news/static/media/loading.b75b820d5677a45b26bd.gif",
     "index.html": "/aap-ki-news/index.html",
     "main.abd64e84.css.map": "/aap-ki-news/static/css/main.abd64e84.css.map",
-    "main.71c6aeed.js.map": "/aap-ki-news/static/js/main.71c6aeed.js.map",
+    "main.96deff1d.js.map": "/aap-ki-news/static/js/main.96deff1d.js.map",
     "787.9ae55491.chunk.js.map": "/aap-ki-news/static/js/787.9ae55491.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.71c6aeed.js"
+    "static/js/main.96deff1d.js"
   ]
 }
